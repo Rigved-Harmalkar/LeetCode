@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
