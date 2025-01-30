@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -45,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
