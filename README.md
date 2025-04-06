@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Tree
 |  |
 | ------- |
