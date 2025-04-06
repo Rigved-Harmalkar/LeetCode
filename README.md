@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
