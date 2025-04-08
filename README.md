@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0067-add-binary) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1894-merge-strings-alternately](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Stack
