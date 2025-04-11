@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0682-baseball-game) |
 | [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0682-baseball-game) |
 | [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Design
 |  |
