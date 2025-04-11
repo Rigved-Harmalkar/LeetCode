@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1894-merge-strings-alternately](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Design
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Dynamic Programming
 |  |
 | ------- |
