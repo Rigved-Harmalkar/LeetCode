@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Tree
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
