@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1894-merge-strings-alternately](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0682-baseball-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
