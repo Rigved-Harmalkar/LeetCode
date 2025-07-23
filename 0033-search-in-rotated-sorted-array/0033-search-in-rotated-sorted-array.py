@@ -1,28 +1,25 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        left = 0
-        right = len(nums) - 1
+        low = 0 
+        high = len(nums) - 1
 
-        while left <= right:
-            mid = (left + right) // 2  # Calculating the mid
+        while low <= high:
+            mid = (low+high) // 2
 
-            # mid is target
             if nums[mid] == target:
                 return mid
-
-            # target is on the left side
-
-            if nums[mid] >= nums[left]:
-                if target >= nums[left] and target <= nums[mid]:
-                    right = mid - 1
-                else:
-                    left = mid + 1
-
-            # target is on the right side
-            else:
-                if target <= nums[right] and target >= nums[mid]:
-                    left = mid + 1
-                else:
-                    right = mid - 1
-        return -1
             
+            elif nums[low] <= nums[mid]:
+                if nums[low] <= target and target <= nums[mid]:
+                    high = mid - 1
+                else:
+                    low = mid + 1
+                
+            else:
+                if nums[mid] <= target and target <= nums[high]:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+                
+        return -1
+        
