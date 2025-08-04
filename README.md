@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rigved-Harmalkar/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
